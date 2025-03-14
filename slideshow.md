@@ -7,6 +7,10 @@ theme: default
 
 ---
 
+![hand.jpg](hand.jpg)
+
+---
+
 ![coin.png](coin.png)
 
 ---
