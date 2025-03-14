@@ -11,6 +11,10 @@ theme: default
 
 ---
 
+![harvey.jpg](harvey.jpg)
+
+---
+
 ![coin.png](coin.png)
 
 ---
