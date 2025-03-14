@@ -7,6 +7,10 @@ theme: default
 
 ---
 
+![coin.png](coin.png)
+
+---
+
 # Никита
 
 ---
